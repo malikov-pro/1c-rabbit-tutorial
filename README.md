@@ -1,4 +1,4 @@
-# 1c-rabbit-tutoriial
+# 1c-rabbit-tutorial
 
 Приложение к адаптации учебника по RabbitMQ
 
